@@ -1,3 +1,5 @@
+Music Hub
+
 This application is a simple music player built using VB.NET and NAudio library for audio playback and equalization.
 
 Features
