@@ -1,2 +1,2 @@
 # MusicPlayer
-Music Player, allows you to import your won music control volume, bass and treble
+Music Player, allows you to import your own music control volume, bass and treble
